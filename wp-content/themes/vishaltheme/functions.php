@@ -64,4 +64,4 @@ function vishal_widget_setup(){
     )
 );
 }
-add_action( 'widget_init', 'vishal_widget_setup');
+add_action( 'widgets_init', 'vishal_widget_setup');
